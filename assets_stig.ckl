@@ -29223,8 +29223,8 @@ If deadlock issues are not being addressed via documented web service configurat
                     <ATTRIBUTE_DATA>CCI-000336</ATTRIBUTE_DATA>
                 </STIG_DATA>
                 <STATUS>Not_Reviewed</STATUS>
-                <FINDING_DETAILS></FINDING_DETAILS>
-                <COMMENTS></COMMENTS>
+                <FINDING_DETAILS>test2 </FINDING_DETAILS>
+                <COMMENTS>test3</COMMENTS>
                 <SEVERITY_OVERRIDE></SEVERITY_OVERRIDE>
                 <SEVERITY_JUSTIFICATION></SEVERITY_JUSTIFICATION>
             </VULN>
